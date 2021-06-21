@@ -1,4 +1,13 @@
-# Kubernetes (K8s)
+# Kubernetes (K8s) for Graphic Programming
+
+GPLAB: Graphic Programming Lab
+www.cnide.com.cn
+
+The plan:
+Using Kubernetes as runtime platform for something like IEC-61499
+
+GPLAB: A IEC-61499 alike IDE - Integrated Development Environment
+
 
 [![GoPkg Widget]][GoPkg] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
 
