@@ -8,7 +8,7 @@ Using Kubernetes as runtime platform for something like IEC-61499
 
 GPLAB: A IEC-61499 enabling IDE - Integrated Development Environment
 
-
+<img src="https://github.com/gplab-ide/tutorial_1/blob/main/assets/tutorial_1.svg">
 
 [![GoPkg Widget]][GoPkg] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
 
