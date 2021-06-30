@@ -3,7 +3,6 @@
 GPLAB: Graphic Programming Lab
 www.cnide.com.cn
 
-The plan:
 Using Kubernetes as runtime platform for something like IEC-61499
 
 GPLAB: A IEC-61499 enabling IDE - Integrated Development Environment
